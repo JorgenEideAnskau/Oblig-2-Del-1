@@ -1,0 +1,1 @@
+SELECT * FROM Obli2Oppgavesett7;
